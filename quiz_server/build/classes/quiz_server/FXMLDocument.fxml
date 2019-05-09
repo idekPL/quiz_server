@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="366.0" prefWidth="429.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="quiz_server.FXMLDocumentController">
+   <children>
+      <Label layoutX="56.0" layoutY="25.0" text="Log:" />
+      <TextArea id="txt_area" fx:id="txt_area" editable="false" layoutX="21.0" layoutY="56.0" prefHeight="290.0" prefWidth="386.0" />
+   </children>
+</AnchorPane>

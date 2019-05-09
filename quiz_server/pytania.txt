@@ -1,0 +1,3 @@
+﻿Skąd wczytałeś/aś pytania?:z pliku tekstowego
+Ile to 2+2?:4
+Mogę przejąć władzę nad twoim komputerem?:nie
